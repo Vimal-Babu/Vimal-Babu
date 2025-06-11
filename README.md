@@ -24,7 +24,7 @@
 **Email**: vimalbabu3609@gmail.com  
 **LinkedIn**: [linkedin.com/in/vimalbabu369](https://linkedin.com/in/vimalbabu369)
 
-📄 **[My Resume (Latest)](https://drive.google.com/file/d/1LArNckupbNKIyt_iRx-etUa9dDl0F-AL/view?usp=sharing)**
+📄 **[My Resume (Latest)](https://drive.google.com/file/d/1JLwUZb7L_8lV6PpoV-5niODIxBPJjzYr/view?usp=sharing)**
 
 ---
 
