@@ -58,7 +58,7 @@ class VimalBabu:
   &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   &nbsp;
-  <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask" width="80" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   &nbsp;
@@ -83,7 +83,7 @@ class VimalBabu:
 
 <br/>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vimal-Babu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="60%" src="https://github-readme-streak-stats.streak-stats.demolab.com/?user=Vimal-Babu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
