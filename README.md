@@ -110,7 +110,7 @@ class VimalBabu:
   </a>
   &nbsp;
   <a href="https://drive.google.com/file/d/1L0PLHkMDYY0G_734Bph347X8X_2oUkfw/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+    <img src="[https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white](https://drive.google.com/file/d/1_Y2egchn-ik-DVsWOI87Pjg4SdQpcFz8/view?usp=sharing)" alt="Resume"/>
   </a>
 </p>
 
