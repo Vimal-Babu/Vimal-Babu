@@ -22,7 +22,7 @@
 
 📫 **Reach me at**  
 **Email**: vimalbabu3609@gmail.com  
-**LinkedIn**: [linkedin.com/in/vimalbabu369](https://linkedin.com/in/vimalbabu369)
+**LinkedIn**: [linkedin.com/in/vimalbabu369](linkedin.com/in/vimalpython3609)
 
 📄 **[My Resume (Latest:- 02-04-2026)](https://drive.google.com/file/d/1L0PLHkMDYY0G_734Bph347X8X_2oUkfw/view?usp=sharing)**
 
