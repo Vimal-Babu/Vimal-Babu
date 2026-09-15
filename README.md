@@ -59,11 +59,8 @@ I contributed **41 commits** to the production backend, working on features, API
 **Stack:** `Python` `Django` `DRF` `PostgreSQL` `Redis` `Celery` `AWS`
 
 <div align="left">
-<a href="https://www.zecpath.com/">
+<a href="https://www.zecpath.com/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Platform-ZecPath-312E81?style=for-the-badge" alt="ZecPath"/>
-</a>
-<a href="https://github.com/zecpathaiplatform-spec/ZecPath-AI-Platform-Backend">
-  <img src="https://img.shields.io/badge/Backend-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ZecPath Backend"/>
 </a>
 </div>
 
