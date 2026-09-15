@@ -185,15 +185,15 @@ Production APIs · Django REST Framework · PostgreSQL · Redis · Celery · AWS
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
+
+## 🤝 Let's Connect
 
 I'm open to **Python / Django backend roles**, especially opportunities where I can work on real products, APIs and production systems.
 
 <br>
 
-<a href="https://linkedin.com/in/vimalpython3609">
+<a href="https://linkedin.com/in/vimalpython3609" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -201,7 +201,7 @@ I'm open to **Python / Django backend roles**, especially opportunities where I 
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href="YOUR_NEW_RESUME_LINK">
+<a href="https://drive.google.com/file/d/1ORYq3G1QbGVIWgkvfbYijha4K8_drWdZ/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-312E81?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 
